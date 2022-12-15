@@ -1,0 +1,30 @@
+1. wap in c to print counting from 1 to 10.
+2. wap in c to print 1st 'n' even numbers.
+3. wap in c to print 1st 'n' odd no.
+4. wap in c to print the countinng as per the requirment of the user.
+5. wap in c to calculate the addion of five no.
+6. wap in c to to print the averae of 5 no. 
+7. wap in c to to calculate the sum 'n' number.
+8. wap in c to to calculate the average the sum of 'n' number.
+9. wap in c to input a multidigit no. from the user and calculate the sum of all those digits.
+10. wap in c to input a multidigit no. from the user and print that no. into the revers order.
+11. wap in c to input a multidigit no. from a user and calculate the sum of 1st and last digit of that no. 
+12. wap in c to print 1st five terms of fibonacci series
+13. wap in c to print 1st 'n' terms fo fibonacci series
+14. wap in c to input a multidigit no. fromm the user and check that no. is armstrong number or not 
+15. wap in c to print the square of 1st 'n' no.
+16.   --------this qustion is same as to 2 qustion ------------
+17. wap in c to input a character from user in uppercase and print it in lowercase.
+18. wap in c to input a character in lower case and print that character in uppercase.
+19. wap in c to input a character from the user. if enterd character is in lower case then print that character into uppercase into the uppercase and viceversa.
+20. wap in c to print alphabets from a to z.
+21. wap in c to print alphabets from A to Z.
+22. wap in c to print the table of 5.
+23. wap in c to print the table of any no.
+24. wap in c to print out the maximum of 5 no. 
+25. 
+26. wap in c to find out the maximum of 'n' no.
+27. wap in c to find the maximum of 'n' no.
+28. wap in c to calculate the factorial of 5.
+29. wap in c to calculate the factorial of any no. 
+30. wap in c to calculate the power fo given of no.
