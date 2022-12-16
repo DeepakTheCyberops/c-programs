@@ -17,7 +17,7 @@ int main()
     /*decleare two index a[0] or a[1]*/
     a[0] = 0, a[1] = 1;
 
-    printf("first two value is: \n%d \n%d", a[0], a[1]);
+    printf("first two value is: %d %d", a[0], a[1]);
 
     /*use loop for remaning 3 value */
     for (i = 2; i < n; i++)
@@ -31,9 +31,7 @@ int main()
 
 //output
 /*how many fibonacci series you want to print: 10
-first two value is: 
-0 
-1
+first two value is: 0 1
 1
 2
 3

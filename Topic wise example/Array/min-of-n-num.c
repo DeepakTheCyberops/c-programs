@@ -3,8 +3,8 @@
 #include <stdlib.h>
 int main()
 {
-    int a[5], i, min = 0, n;
-    printf("enter the terms:  ");
+    int a[20], i, min = 0, n;
+    printf("enter how many number you want to print:  ");
     scanf("%d", &n);
     if (n > 20)
     {
@@ -13,11 +13,11 @@ int main()
     }
     for (i = 0; i < n; i++)
     {
+        printf("enter the num: ");
         scanf("%d", &a[i]); // take input from the user
-        exit(0);
     }
 
-    min = a[0]; // define one elimet to find out the minimun value of array
+    min = a[1]; // define one elimet to find out the minimun value of array
 
     for (i = 0; i < n; i++)
     {
@@ -32,3 +32,14 @@ int main()
 }
 
 // output
+/*enter how many number you want to print:  8
+enter the num: 5
+enter the num: 2
+enter the num: 4
+enter the num: 6 
+enter the num: 5
+enter the num: 9
+enter the num: 1
+enter the num: 0
+the minimum number is: 0 
+*/
