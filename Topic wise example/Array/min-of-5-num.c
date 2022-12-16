@@ -20,7 +20,7 @@ int main()
         }
         
     }
-    printf("the maximum number is: %d",min);    //print the minimum value of a array
+    printf("the minimum number is: %d",min);    //print the minimum value of a array
 }
 
 //output
