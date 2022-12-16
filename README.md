@@ -1,5 +1,5 @@
 # C-programs
-Beginner c program to intimidate example
+Beginner c program to intermediate example
 
 -->time to time i add more files
 
