@@ -1,11 +1,17 @@
 //maximum of n number by array
 //input
 #include <stdio.h>
+#include <stdlib.h>
 int main()
 {
     int a[20],i,max=0,n;
     printf("enter the number you want to print out: ");
     scanf("%d",&n);
+    if (n > 20)
+    {
+        printf("you give greater number than 20\n");
+        exit (0);
+    }
     for(i=0;i<n;i++)
     {
         printf("enter the num: ");

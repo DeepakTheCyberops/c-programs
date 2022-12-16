@@ -1,5 +1,6 @@
 // input
 #include <stdio.h>
+#include<stdlib.h>
 int main()
 {
     int a[20], sum=0, i, n,avg;
@@ -8,6 +9,7 @@ int main()
     if (n > 20)
     {
         printf("you give greater number than 20\n");
+        exit(0);
     }
     for (i = 0; i < n; i++) // take value from user
     {
