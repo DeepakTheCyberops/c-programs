@@ -8,6 +8,7 @@ int div(int, int);
 int main()
 {
 	int a, b, result, choice, y_n;
+	/*use do wile for use calculating again*/
 	do
 	{
 		printf("you can perform the forllowintg operation:\n");
@@ -22,6 +23,7 @@ int main()
 		scanf("%d", &a);
 		printf("\n enter the value of b ");
 		scanf("%d", &b);
+		/*use switch to diffrent type of calculations*/
 		switch (choice)
 		{
 		case 1:
@@ -48,7 +50,7 @@ int main()
 			printf("\n sum=%d", result);
 			break;
 		}
-		printf("\n press any no. from 1 to 4 or Continue and 0 for end\n");
+		printf("\n press any no. to do Continue & use 0 for end\n");
 		scanf("%d", &y_n);
 	} while (y_n != 0);
 }
