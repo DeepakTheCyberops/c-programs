@@ -43,3 +43,15 @@ int main()
     }
     printf("the minimum number is: %d\n", min); // print the minimum value of a array
 }
+
+
+//output
+/*enter the value of array: 5
+enter the number 36
+enter the number 2
+enter the number 15
+enter the number 4
+enter the number 6
+The maximum value is: 36
+the minimum number is: 2
+*/
