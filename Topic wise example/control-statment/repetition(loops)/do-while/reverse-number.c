@@ -1,0 +1,1 @@
+//reverse the number by the using array
