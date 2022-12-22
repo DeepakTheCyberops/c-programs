@@ -27,11 +27,11 @@ int main()
     {
         if (a[i] == tosearch)
         {
-            found = 1;
+            found = i;
             break;
         }
     }
-    if (found == 1)
+    if (found == i)
     {
         printf("the location of number is: %d", found + 1);
     }
