@@ -34,3 +34,25 @@ int main()
         break;
     }
 }
+
+//output 1 
+/*Convert the fahrenheit degrees to convert in centigrade degress or vice versa : 
+use option
+1.centigrade to fahrenheit
+2.fahrenheit to centigrade
+--------------------------------------
+6
+
+you enter the wrong value */
+
+//output 2 
+/*
+Convert the fahrenheit degrees to convert in centigrade degress or vice versa : 
+use option
+1.centigrade to fahrenheit
+2.fahrenheit to centigrade
+--------------------------------------
+2
+Enter the value: 6
+
+Convet to fahrenheit to centigrade: -14.444445    */
