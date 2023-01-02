@@ -51,9 +51,9 @@ int main()
   return 0;
 }
 
-//output
+// output
 /*Enter the Limit: 5
-Enter the Values: 
+Enter the Values:
 26
 45666
 32456
@@ -69,7 +69,7 @@ Enter the position to be update: 3
 
 Enter the value to be update: 35000000
 
-Updated value is: 
+Updated value is:
 a[0]=26
 a[1]=45666
 a[2]=32456
