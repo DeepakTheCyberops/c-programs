@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main()
 {
-    int a[3][3], b[3][3], sum[3][3], i, j;
+    int a[3][3], b[3][3], sub[3][3], i, j;
     /*input 1 matrix*/
     for (i = 0; i < 3; i++)
     {
@@ -52,22 +52,22 @@ int main()
         }
     }
 
-    /*the sum of two mmmatrix*/
+    /*the sub of two mmmatrix*/
     for (i = 0; i < 3; i++)
     {
         for (j = 0; j < 3; j++)
         {
-            sum[i][j] = a[i][j] - b[i][j];
+            sub[i][j] = a[i][j] - b[i][j];
         }
     }
     printf("-------------------------------\n");
 
-    /*display the sum of matrix*/
+    /*display the sub of matrix*/
     for (i = 0; i < 3; i++)
     {
         for (j = 0; j < 3; j++)
         {
-            printf("\t %3d", sum[i][j]);
+            printf("\t %3d", sub[i][j]);
             if (j == 3 - 1)
             {
                 printf("\n\n");

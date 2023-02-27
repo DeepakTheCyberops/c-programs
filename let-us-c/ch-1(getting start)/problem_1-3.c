@@ -1,5 +1,4 @@
-//
-//
+//input
 #include <stdio.h>
 int main()
 
@@ -14,3 +13,12 @@ int main()
     printf("Percentage Marks = %f\n", per);
     return 0;
 }
+
+/*output
+Enter marks in 5 subjects: 45
+35
+98
+68
+78
+Aggregate Marks = 324
+Percentage Marks = 64.00*/

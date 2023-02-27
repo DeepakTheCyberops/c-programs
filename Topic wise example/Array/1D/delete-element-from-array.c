@@ -62,3 +62,23 @@ int main()
     }
     return 0;
 }
+
+/*Enter the array size: 5
+Enter the Values: 
+12
+35
+65
+54
+85
+Given values are: a[0]=12
+Given values are: a[1]=35
+Given values are: a[2]=5
+Given values are: a[3]=4
+Given values are: a[4]=85
+Enter the position for delete the element: 0
+Enter the value to be deleted is: 12
+Updated value is: 
+a[0]=35
+a[1]=5
+a[2]=4
+a[3]=85*/

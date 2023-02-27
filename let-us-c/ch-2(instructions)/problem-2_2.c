@@ -25,6 +25,6 @@ int main()
 
 //output
 /*
-Enter a five digit number (less than 32767):123456
-the reversed number is 65432
+Enter a five digit number (less than 32767):65421
+the reversed number is 12456
 */

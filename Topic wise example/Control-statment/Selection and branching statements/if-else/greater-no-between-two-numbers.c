@@ -1,23 +1,5 @@
 // // greater no between two numbers
 // // input
-// #include <stdio.h>
-// int main()
-// {
-//     int n1, n2;
-//     printf("enter the value of n2: ");
-//     scanf("%d", n1);
-//     printf("enter the value of n2: ");
-//     scanf("%d", n2);
-//     if (n1>n2)
-//     {
-//         printf("first number is greater");
-//     }
-//     else
-//     {
-//         printf("second no. is greater");
-//     }
-//     return 0;
-// }
 #include <stdio.h>
 int main()
 {
